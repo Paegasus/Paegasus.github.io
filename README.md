@@ -1,5 +1,5 @@
 # CAD
 Web-based CAD app
 
-![Screenshot](image.jpeg)
+![Screenshot](image.jpg)
 
